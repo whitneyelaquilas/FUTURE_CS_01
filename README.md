@@ -1,6 +1,6 @@
 # Vulnerability Assessment Report – Google Gruyere
 
-**Author**: [Your Name]  
+**Author**: [Whitney El Aquilas]  
 **Date**: May 2026  
 **Tools used**: Nmap, OWASP ZAP (passive mode), Browser DevTools, Canva  
 
