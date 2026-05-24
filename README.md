@@ -17,7 +17,7 @@ Perform a passive vulnerability assessment as required by the assignment:
 - Deliver a professionally designed report (Canva) and publish it on GitHub.
 
 ## Methodology
-1. **Nmap** – Port scanning and service detection (`-sV -sC` on initial target `demo.owasp-juice.shop`).
+1. **Nmap** – Port scanning and service detection (`-sV -sC` on initial target `https://google-gruyere.appspot.com/).
 2. **OWASP ZAP (passive mode)** – Browsed the application while ZAP recorded alerts.
 3. **Browser DevTools** – Manually inspected HTTP headers, cookies, and HTML comments.
 4. **Canva** – Designed the final report (PDF).
